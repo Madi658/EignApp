@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">eignApp</string>
+    <string name="facebook_app_id">319475296230863</string>
+    <string name="fb_login_protocol_scheme">fb319475296230863</string>
+</resources>
